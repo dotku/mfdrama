@@ -1,0 +1,1 @@
+nohup npx serve -l 8080 &
